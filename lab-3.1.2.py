@@ -1,0 +1,15 @@
+A= []
+A.append("A")
+A.append("B")
+A.append("C")
+A.append("D")
+A.append("E")
+A.append("F")
+A.pop(0)
+A.pop(0)
+A.pop(0)
+A.pop(0)
+A.pop(0)
+A.pop(0)
+print(A)
+
